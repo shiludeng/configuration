@@ -17,3 +17,6 @@ let g:winManagerWindowLayout='FileExplorer|TagList'
 nmap wm :WMToggle<cr>
 
 set cscopequickfix=s-,c-,d-,i-,t-,e-
+
+" set shortcut for A.vim
+nnoremap <silent> <F12> :A<CR>
