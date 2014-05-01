@@ -20,3 +20,14 @@ set cscopequickfix=s-,c-,d-,i-,t-,e-
 
 " set shortcut for A.vim
 nnoremap <silent> <F12> :A<CR>
+
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+
+set cscopequickfix=s-,c-,d-,i-,t-,e-
+
+" for the project 'weigo'
+set path=.,/home/azure/data/Study/Study/projects/weigo/ui/include/,/home/azure/data/Study/Study/projects/weigo/as/include/,/home/azure/data/Study/Study/projects/weigo/ws/include/
+cs add /home/azure/data/Study/Study/projects/weigo/cscope.out /home/azure/data/Study/Study/projects/weigo
+

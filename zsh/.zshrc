@@ -250,7 +250,6 @@ alias aks='adb kill-server'
 alias ass='adb start-server'
 alias ars='aks && ass'
 alias alog='adb logcat -C'
-
 #[Esc][h] man 当前命令时，显示简短说明 
 alias run-help >&/dev/null && unalias run-help 
 autoload run-help 
@@ -261,10 +260,11 @@ alias top10='print -l  ${(o)history%% *} | uniq -c | sort -nr | head -n 10'
   
 #路径别名 {{{ 
 #进入相应的路径时只要 cd ~xxx 
-hash -d A="/media/ayu/dearest"
-hash -d H="/media/data/backup/ayu"
-hash -d E="/etc/"
-hash -d D="/home/ayumi/Documents"
+#hash -d A="/media/ayu/dearest"
+#hash -d H="/media/data/backup/ayu"
+#hash -d E="/etc/"
+#hash -d D="/home/ayumi/Documents"
+hash -d wg="/home/azure/data/Study/Study/projects/weigo"
 #}}} 
   
 ##for Emacs {{{ 
