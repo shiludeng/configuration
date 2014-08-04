@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/users/shiludeng/data/dev/hadoop/hadoop-2.4.1-src/hadoop-common-project/hadoop-common/target/native/CMakeFiles'
+let g:netrw_dirhist_2='/home/users/shiludeng/data/dev/app/ecom/weigou/ws/weigou-fcgi/src'
+let g:netrw_dirhist_3='/home/users/shiludeng/data/dev/tae/pb'
+let g:netrw_dirhist_4='/home/users/shiludeng/data/dev/app/ecom/weigou/minibs/server/src/index'
