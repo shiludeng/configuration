@@ -1,0 +1,12 @@
+.bash_history
+.oh-my-zsh
+.ssh
+.k5login
+.profile
+.viminfo
+.vim
+.zcompdump*
+.zsh-update
+.zsh_history
+.zshrc
+dev
