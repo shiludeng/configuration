@@ -1,7 +1,7 @@
 #!/bin/bash
 # install.sh
 
-sudo yum -y install ctags
+#sudo yum -y install ctags
 
 for dir in plugins/* ; do
 	sh $dir/install.sh
