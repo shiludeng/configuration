@@ -80,7 +80,7 @@ let TList_Exit_OnlyWindow=1
 let g:winManagerWindowLayout='FileExplorer|TagList'
 
 nmap wm :WMToggle<cr>
-
+nmap <C-]> g<C-]>
 
 
 set cscopequickfix=s-,c-,d-,i-,t-,e-
