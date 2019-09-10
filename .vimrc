@@ -13,7 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
-Plugin 'vim-scripts/ZoomWin'
+Plugin 'shiludeng/vim-zoomwin'
 Plugin 'vim-scripts/a.vim'
 "Plugin 'tpope/vim-fugitive'
 "Plugin 'powerline/powerline'
