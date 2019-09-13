@@ -15,6 +15,8 @@ Plugin 'VundleVim/Vundle.vim'
 " plugin on GitHub repo
 Plugin 'shiludeng/vim-zoomwin'
 Plugin 'vim-scripts/a.vim'
+Plugin 'vim-scripts/winmanager'
+Plugin 'vim-scripts/taglist.vim'
 "Plugin 'tpope/vim-fugitive'
 "Plugin 'powerline/powerline'
 " plugin from http://vim-scripts.org/vim/scripts.html
