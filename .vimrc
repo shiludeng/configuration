@@ -18,6 +18,7 @@ Plugin 'vim-scripts/a.vim'
 Plugin 'vim-scripts/winmanager'
 Plugin 'vim-scripts/taglist.vim'
 Plugin 'jlanzarotta/bufexplorer'
+Plugin 'mileszs/ack.vim'
 "Plugin 'tpope/vim-fugitive'
 "Plugin 'powerline/powerline'
 " plugin from http://vim-scripts.org/vim/scripts.html
