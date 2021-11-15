@@ -55,7 +55,7 @@ set nu
 set tabstop=4
 set expandtab
 
-set colorcolumn=100
+set colorcolumn=120
 
 set smartindent
 
