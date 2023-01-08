@@ -20,6 +20,7 @@ Plugin 'vim-scripts/taglist.vim'
 Plugin 'jlanzarotta/bufexplorer'
 Plugin 'mileszs/ack.vim'
 Plugin 'sudar/comments.vim'
+Plugin 'zivyangll/git-blame.vim'
 "Plugin 'tpope/vim-fugitive'
 "Plugin 'powerline/powerline'
 " plugin from http://vim-scripts.org/vim/scripts.html
@@ -96,6 +97,8 @@ set cscopequickfix=s-,c-,d-,i-,t-,e-
 
 nnoremap <silent> <F12> :A<CR>
 nnoremap <silent> <F3> :Grep<CR>
+nnoremap <Leader>s :<C-u>call gitblame#echo()<CR>
+
 
 
 
